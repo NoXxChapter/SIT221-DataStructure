@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\bin\Debug\net10.0\4.2P Linked List.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\bin\Debug\net10.0\4.2P Linked List.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\bin\Debug\net10.0\4.2P Linked List.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\bin\Debug\net10.0\4.2P Linked List.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\bin\Debug\net10.0\4.2P Linked List.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\refint\4.2P Linked List.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\4.2P Linked List.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.2P Skip-List\4.2P Linked List\obj\Debug\net10.0\ref\4.2P Linked List.dll
