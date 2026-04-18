@@ -1,0 +1,28 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\bin\Debug\net10.0\Vector.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\bin\Debug\net10.0\Vector.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\bin\Debug\net10.0\Vector.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\bin\Debug\net10.0\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\bin\Debug\net10.0\Vector.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\refint\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\Vector.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector\obj\Debug\net10.0\ref\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\bin\Debug\net10.0\Vector.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\bin\Debug\net10.0\Vector.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\bin\Debug\net10.0\Vector.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\bin\Debug\net10.0\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\bin\Debug\net10.0\Vector.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\refint\Vector.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\Vector.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Vector - variable array\obj\Debug\net10.0\ref\Vector.dll

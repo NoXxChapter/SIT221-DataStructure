@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\bin\Debug\net10.0\Enabling sorting of generic data.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\bin\Debug\net10.0\Enabling sorting of generic data.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\bin\Debug\net10.0\Enabling sorting of generic data.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\bin\Debug\net10.0\Enabling sorting of generic data.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\bin\Debug\net10.0\Enabling sorting of generic data.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\refint\Enabling sorting of generic data.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\Enabling sorting of generic data.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\Enabling sorting of generic data\obj\Debug\net10.0\ref\Enabling sorting of generic data.dll
