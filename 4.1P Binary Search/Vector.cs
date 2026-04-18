@@ -1,0 +1,260 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Xml.Serialization;
+
+namespace Vector
+{
+
+    public class Vector<T>  where T : IComparable<T>
+    {
+        // This constant determines the default number of elements in a newly created vector.
+        // It is also used to extended the capacity of the existing vector
+        private const int DEFAULT_CAPACITY = 10;
+
+        // This array represents the internal data structure wrapped by the vector class.
+        // In fact, all the elements are to be stored in this private  array. 
+        // You will just write extra functionality (methods) to make the work with the array more convenient for the user.
+        private T[] data;
+
+        // This property represents the number of elements in the vector
+        public int Count { get; private set; } = 0;
+
+        // This property represents the maximum number of elements (capacity) in the vector
+        public int Capacity
+        {
+            get { return data.Length; }
+        }
+
+        // This is an overloaded constructor
+        public Vector(int capacity)
+        {
+            data = new T[capacity];
+        }
+
+        // This is the implementation of the default constructor
+        public Vector() : this(DEFAULT_CAPACITY) { }
+
+        // An Indexer is a special type of property that allows a class or structure to be accessed the same way as array for its internal collection. 
+        // For example, introducing the following indexer you may address an element of the vector as vector[i] or vector[0] or ...
+        public T this[int index]
+        {
+            get
+            {
+                if (index >= Count || index < 0) throw new IndexOutOfRangeException();
+                return data[index];
+            }
+            set
+            {
+                if (index >= Count || index < 0) throw new IndexOutOfRangeException();
+                data[index] = value;
+            }
+        }
+
+        // This private method allows extension of the existing capacity of the vector by another 'extraCapacity' elements.
+        // The new capacity is equal to the existing one plus 'extraCapacity'.
+        // It copies the elements of 'data' (the existing array) to 'newData' (the new array), and then makes data pointing to 'newData'.
+        private void ExtendData(int extraCapacity)
+        {
+            T[] newData = new T[Capacity + extraCapacity];
+            for (int i = 0; i < Count; i++) newData[i] = data[i];
+            data = newData;
+        }
+
+        // This method adds a new element to the existing array.
+        // If the internal array is out of capacity, its capacity is first extended to fit the new element.
+        public void Add(T element)
+        {
+            if (Count == Capacity) ExtendData(DEFAULT_CAPACITY);
+            data[Count] = element;
+            Count++;
+        }
+
+        // This method searches for the specified object and returns the zero‐based index of the first occurrence within the entire data structure.
+        // This method performs a linear search; therefore, this method is an O(n) runtime complexity operation.
+        // If occurrence is not found, then the method returns –1.
+        // Note that Equals is the proper method to compare two objects for equality, you must not use operator '=' for this purpose.
+        public int IndexOf(T element)
+        {
+            for (var i = 0; i < Count; i++)
+            {
+                if (data[i].Equals(element)) return i;
+            }
+            return -1;
+        }
+
+        // TODO: Your task is to implement all the remaining methods.
+        // Read the instruction carefully, study the code examples from above as they should help you to write the rest of the code.
+
+        // insert a NUMBER to a random position
+        public void Insert(int index, T element)
+        {
+            if (index > Count || index < 0) throw new IndexOutOfRangeException();  // check index in range
+
+            if (Count == Capacity) ExtendData(DEFAULT_CAPACITY);    // check data capacity
+
+            for (int i=Count; i > index; i--)   // shifting elements to the RIGHT
+            {
+                data[i] = data[i - 1];  // FROM the END -> INDEX
+            }
+
+            // reach index position
+            data[index] = element;
+            Count++;    // count accumulation
+        }
+        // DONE 
+
+        // clean the VECTOR array
+        public void Clear()
+        {
+            // clean the memory
+            for (int i=0; i < Count; i++)
+            {
+                data[i] = default(T);   // set data[] value back to initial value (null,..etc..)
+            }
+            // set COUNT = 0
+            Count = 0;
+            
+        }
+        // DONE
+
+        // check ELEMENT exist 
+        public bool Contains(T element)
+        {
+            for (int i=0; i < Count; i++)
+            {
+                if (data[i].Equals(element)) return true;
+            }
+            return false;
+        }
+        // DONE
+
+        // remove ELEMENT exist from VECTOR
+        public bool Remove(T element)
+        {
+            int index = IndexOf(element);
+            if (index == -1) return false;
+            
+            // shift everything from index + 1 to LEFT
+            for (int i=index; i<Count-1; i++)
+            {
+                data[i] = data[i+1];
+            }
+            Count--;    // update Count
+            data[Count] = default(T);   // clear old memory
+            return true;
+        }
+        // DONE
+
+        public void RemoveAt(int index)
+        {
+            if (index >= Count || index < 0) throw new IndexOutOfRangeException();  // check index in range
+
+            for (int i=index; i<Count-1; i++)
+            {
+                data[i] = data[i+1];
+            }
+            Count--;    // update Count
+            data[Count] = default(T);   // clear old memory
+        }
+        // DONE
+
+        public override string ToString()
+        {
+            // empty case
+            if (Count == 0) return "[]";
+            
+            string result = "[";
+            for (int i=0; i<Count;i++)
+            {
+                // add ELEMENT to STRING
+                result += data[i].ToString();
+                // add coma && space
+                if (i < Count - 1)  //avoid last element 
+                {
+                    result += ", ";
+                }
+            }
+
+            result += "]";
+
+            return result;
+        }
+        // DONE
+
+        // 2.1
+        // Sort with default setting
+        public void Sort()
+        {
+            Array.Sort(data, 0, Count); // (Array, Array_head, Array_end)
+        }
+
+        // Sort with custom rule
+        public void Sort(IComparer<T> comparer)
+        {
+            Array.Sort(data, 0, Count, comparer);
+        }
+
+
+        // 3.1P - interface
+        public void Sort(ISorter sortMethod, IComparer<T> comparer) 
+        {
+            if (comparer == null)
+            {
+                comparer = Comparer<T>.Default;
+            }
+
+            if (sortMethod == null)
+            {
+                Array.Sort(data, 0, Count, comparer);
+            }
+            else
+            {
+                sortMethod.Sort(data, 0, Count, comparer);
+            }
+        }
+
+        // 4.1P - Binary Search
+        public int BinarySearch(T item, IComparer<T> comparer) 
+        {
+            // == SORT ==
+            if (comparer == null)
+            {
+                comparer = Comparer<T>.Default;
+            }
+
+            // == BINARY SEARCH ==
+            int head = 0;
+            int tail = Count-1;
+            
+            while (head <= tail)
+            {
+                int mid = (head + tail)/2;  // get MID
+                // item is undefinded element 
+                // so have to use Compare method
+                int comp = comparer.Compare(item,data[mid]);
+
+                // = FOUND =
+                if (comp == 0)  return mid;
+
+                // = Search LEFT =
+                if (comp < 0)
+                {
+                    tail = mid-1;
+                }
+                // = Search RIGHT =
+                if (comp > 0)
+                {
+                    head = mid+1;
+                }  
+            }
+            return -1;  // NOT FOUND
+
+        }
+
+    }
+
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\bin\Debug\net10.0\4.1P Binary Search.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\bin\Debug\net10.0\4.1P Binary Search.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\bin\Debug\net10.0\4.1P Binary Search.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\bin\Debug\net10.0\4.1P Binary Search.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\bin\Debug\net10.0\4.1P Binary Search.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\refint\4.1P Binary Search.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\4.1P Binary Search.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.1P Binary Search\obj\Debug\net10.0\ref\4.1P Binary Search.dll
