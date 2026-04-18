@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\bin\Debug\net10.0\Launch.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\bin\Debug\net10.0\Launch.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\bin\Debug\net10.0\Launch.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\bin\Debug\net10.0\Launch.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\bin\Debug\net10.0\Launch.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\refint\Launch.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\Launch.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\5.1P Double Linked List\Launch\obj\Debug\net10.0\ref\Launch.dll
