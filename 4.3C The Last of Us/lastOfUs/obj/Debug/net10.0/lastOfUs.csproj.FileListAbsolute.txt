@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\bin\Debug\net10.0\lastOfUs.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\bin\Debug\net10.0\lastOfUs.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\bin\Debug\net10.0\lastOfUs.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\bin\Debug\net10.0\lastOfUs.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\bin\Debug\net10.0\lastOfUs.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\refint\lastOfUs.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\lastOfUs.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\4.3C The Last of Us\lastOfUs\obj\Debug\net10.0\ref\lastOfUs.dll
