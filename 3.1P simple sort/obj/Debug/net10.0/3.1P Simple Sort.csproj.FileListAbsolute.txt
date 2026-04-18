@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\bin\Debug\net10.0\3.1P Simple Sort.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\bin\Debug\net10.0\3.1P Simple Sort.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\bin\Debug\net10.0\3.1P Simple Sort.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\bin\Debug\net10.0\3.1P Simple Sort.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\bin\Debug\net10.0\3.1P Simple Sort.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\refint\3.1P Simple Sort.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\3.1P Simple Sort.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\3.1P simple sort\obj\Debug\net10.0\ref\3.1P Simple Sort.dll
