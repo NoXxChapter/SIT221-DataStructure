@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\bin\Debug\net10.0\code.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\bin\Debug\net10.0\code.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\bin\Debug\net10.0\code.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\bin\Debug\net10.0\code.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\bin\Debug\net10.0\code.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\refint\code.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\code.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.3D\code\obj\Debug\net10.0\ref\code.dll
