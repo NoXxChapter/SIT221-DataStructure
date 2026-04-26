@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\bin\Debug\net10.0\heap.exe
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\bin\Debug\net10.0\heap.deps.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\bin\Debug\net10.0\heap.runtimeconfig.json
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\bin\Debug\net10.0\heap.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\bin\Debug\net10.0\heap.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\refint\heap.dll
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.pdb
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\heap.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Deakin University\SIT221 - Data Structures and Algorithms\6.2C\heap\heap\obj\Debug\net10.0\ref\heap.dll
